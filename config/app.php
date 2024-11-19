@@ -195,6 +195,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Nwidart\Modules\LaravelModulesServiceProvider::class,
+        Modules\Wallet\App\Providers\WalletUserServiceProvider::class,
+
         // Modules\Wallet\App\Providers\WalletServiceProvider::class,
     ],
 

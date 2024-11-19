@@ -17,10 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\Wallet\\": "",
-            "Modules\\Wallet\\App\\": "app/",
-            "Modules\\Wallet\\Database\\Factories\\": "database/factories/",
-            "Modules\\Wallet\\Database\\Seeders\\": "database/seeders/"
+            "Modules\\": "Modules/"
         }
     },
     "autoload-dev": {

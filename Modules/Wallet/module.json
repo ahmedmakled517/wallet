@@ -4,8 +4,9 @@
     "description": "",
     "keywords": [],
     "priority": 0,
+    "active": true,
     "providers": [
-        "Modules\\Wallet\\App\\Providers\\WalletServiceProvider"
+        "Modules\\Wallet\\App\\Providers\\WalletUserServiceProvider"
     ],
     "files": []
 }
